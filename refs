@@ -1,0 +1,26 @@
+Что происходит
+https://ru.wikipedia.org/wiki/Игра_в_15
+https://ru.wikibooks.org/wiki/Реализации_алгоритмов/Алгоритм_поиска_A*
+https://www.youtube.com/watch?v=6TsL96NAZCo&feature=youtu.be
+https://www.youtube.com/watch?v=AsEC2TJZ3JY&feature=youtu.be
+
+Стурктура данных - очередь с приоритетом и память
+https://docs.python.org/3/library/heapq.html
+https://rushter.com/blog/python-strings-and-memory/
+
+Эвристики
+https://github.com/hardenchant/15_solver
+https://sites.google.com/site/killgamesh666/alghorytms/tag15
+https://resetius.ru/programs/15.html
+
+Решаемость пятнашек
+https://www.youtube.com/watch?v=YI1WqYKHi78
+http://pyatnashki.wmsite.ru/kombinacyi
+https://portal.tpu.ru/SHARED/k/KONVAL/Sites/Russian_sites/2/02.htm
+https://portal.tpu.ru/SHARED/k/KONVAL/Sites/Russian_sites/2/01.htm
+https://python-forum.io/Thread-Even-Odd-permutation
+https://coderoad.ru/337664/Подсчет-инверсий-в-массиве
+
+Что такое uniform cost search?
+https://www.youtube.com/watch?v=dRMvK76xQJI
+https://algorithmicthoughts.wordpress.com/2012/12/15/artificial-intelligence-uniform-cost-searchucs/
